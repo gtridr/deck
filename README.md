@@ -1,9 +1,9 @@
 # deck
 An integrated instrument &amp; control surface based on norns
 
-Starting things off: this project is licensed as a derivative work under GPLv3.0.
+Starting things off: this project is licensed as a derivative work under GPL-3.0.
 
-The core audio codec & voltage regulation circuitry are unmodified from the 211028 revision of the monome norns shield:
+The core audio codec & voltage regulation design are unmodified from the 211028 revision of the monome norns shield:
 https://github.com/monome/norns-shield
 
 The raspberry pi image is a very lightly modified fork of the mainline norns codebase, with just a few tweaks to map the 4th encoder, MIDI-over-serial, and soft shutdown via atxraspi.
