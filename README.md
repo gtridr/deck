@@ -1,6 +1,8 @@
 # deck
 An integrated instrument &amp; control surface based on norns
 
+![3D](/images/deck_model.png)
+
 ## Credits & Licensing
 
 Starting things off: this project is licensed as a derivative work under GPL-3.0. All due credits to the following individuals & projects:
