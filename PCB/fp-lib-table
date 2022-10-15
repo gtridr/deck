@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "norns-shield-211028")(type "KiCad")(uri "$(KIPRJMOD)/norns-shield-211028.pretty")(options "")(descr ""))
-)
