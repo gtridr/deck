@@ -1,7 +1,7 @@
 # deck
 An integrated instrument &amp; control surface based on norns
 
-![3D](/images/deck_model.png)![panel](/images/deck_panel.png)
+![3D](/images/deck_model.png)
 
 ## Credits & Licensing
 
